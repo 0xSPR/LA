@@ -1,0 +1,14 @@
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.AssemblyInfoInputs.cache
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.AssemblyInfo.cs
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.csproj.CoreCompileInputs.cache
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.exe
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.deps.json
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.runtimeconfig.json
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.dll
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.pdb
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.dll
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\refint\LYA1_Lexico.dll
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.pdb
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.genruntimeconfig.cache
+C:\Users\NorthStar\Documents\ITQ\LYA1_Lexico\obj\Debug\net7.0\ref\LYA1_Lexico.dll
