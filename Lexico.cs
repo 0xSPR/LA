@@ -56,6 +56,22 @@ namespace LYA1_Lexico
                     archivo.Read();
                 }
             }
+                // EXAMEN
+            else if (c=='\"')
+            {
+                setClasificacion(Tipos.Cadena);
+                while ((c = (char)archivo.Peek()) != '\"')
+                {
+                    buffer += c;
+                    archivo.Read();
+                }
+                if ((c = (char)archivo.Peek()) == '"')
+                {
+                    setClasificacion(Tipos.Cadena);
+                    buffer += c;
+                    archivo.Read();
+                }
+            }
             else if (c=='+' || c=='-')
             {
                 setClasificacion(Tipos.OperadorTermino);

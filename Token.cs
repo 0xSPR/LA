@@ -7,7 +7,8 @@ namespace LYA1_Lexico
             Identificador,Numero,Caracter,Asignacion,FinSentencia,
             OperadorRelacional, OperadorLogico, OperadorTermino, OperadorFactor,
             IncrementoTermino, IncrementoFactor,
-            Inicio, Fin
+            Inicio, Fin,
+            Cadena
         }
         private string contenido;
         private Tipos  clasificacion;

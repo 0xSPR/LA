@@ -1,0 +1,13 @@
+{ = Inicio
+x26 = Identificador
+= = Asignacion
+35 = Numero
++ = OperadorTermino
+35 = Numero
+. = Caracter
+12 = Numero
+; = FinSentencia
+" = Cadena
+Hola = Identificador
+" = Cadena
+} = Fin
